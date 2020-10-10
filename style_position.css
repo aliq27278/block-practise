@@ -1,0 +1,90 @@
+/*.red{
+width: 100px;
+height: 100px;
+background-color: red;
+position: absolute;
+left: 200px;
+}
+.green{
+width: 100px;
+height: 100px;
+background-color: green;
+position: absolute;
+left: 0px;
+
+}
+.blue{
+width: 100px;
+height: 100px;
+background-color: blue;
+position: absolute;
+left: 100px;
+
+}
+*/
+
+
+							/*IN RELATIVE ANY ELEMENT AFFECT ANY OTHER POSITION 
+							E.G :DIV LINE BRAKE AND UP DOWN ACCORDING PREVIOUS DIV/ELEMENT ;
+						
+							  */
+							
+
+
+/*
+.red{
+width: 100px;
+height: 100px;
+background-color: red;
+position: relative;
+left: 0px;
+top: 0px;
+}
+.green{
+width: 100px;
+height: 100px;
+background-color: green;
+position: relative;
+left: 100px;
+top: 0px;
+
+}
+.blue{
+width: 100px;
+height: 100px;
+background-color: blue;
+position: relative;
+left: 200px;
+top: 0px;
+}*/
+/*fixed are those which will be fixed if we scroll up or down site.*/ 
+
+
+
+							/*IN ABSOLUTE NO ANY ELEMENT AFFECT ANY OTHER POSITION OR SHAPE  */
+
+.red{
+width: 100px;
+height: 100px;
+background-color: red;
+position: absolute;
+left: 0px;
+top: 0px;
+}
+.green{
+width: 100px;
+height: 100px;
+background-color: green;
+position: absolute;
+left: 100px;
+top: 100px;
+
+}
+.blue{
+width: 100px;
+height: 100px;
+background-color: blue;
+position: absolute;
+left: 200px;
+top: 200px;
+}
